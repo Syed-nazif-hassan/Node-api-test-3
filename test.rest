@@ -1,0 +1,10 @@
+### GET Request
+GET http://localhost:2000
+### POST Request
+POST http://localhost:2000
+### DELETE Request
+DELETE http://localhost:2000
+### PUT Request
+PUT http://localhost:2000
+### PATCH Request
+PATCH http://localhost:2000
